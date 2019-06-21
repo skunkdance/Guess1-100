@@ -1,0 +1,14 @@
+
+
+//display instructions
+//get user name
+//get age
+//get random no (1-100)
+//get user['Name'] guess
+//if guess > random number
+  //display "Too high " + Name
+//if guess < random no
+  //display "Too low " + Name
+//else
+  //display "Correct - You guessed it"
+  
